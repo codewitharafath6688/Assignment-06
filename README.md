@@ -1,16 +1,16 @@
 1) What is the difference between var, let, and const?
 
 Ans: Difference by definition :
-        var => glabal scope
-        let => block scope
-        const => block scope
+var => glabal scope
+let => block scope
+const => block scope
 
 2) What is the difference between map(), forEach(), and filter()? 
 
 Ans: Difference by definition :
-        map() => this method create new array
-        forEach() => this method work as like for of loop but not returns new array
-        filter() => this method is condition based with applicable all elements and returns new array
+map() => this method create new array
+forEach() => this method work as like for of loop but not returns new array
+filter() => this method is condition based with applicable all elements and returns new array
 
 3) What are arrow functions in ES6?
 
