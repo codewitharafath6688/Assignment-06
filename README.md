@@ -1,8 +1,8 @@
 1) What is the difference between var, let, and const?
 
 Ans: Difference by definition :
-var => glabal scope
-let => block scope
+var => glabal scope ,
+let => block scope ,
 const => block scope
 
 2) What is the difference between map(), forEach(), and filter()? 
