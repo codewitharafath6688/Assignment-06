@@ -34,12 +34,6 @@ Array destructuring:
 
 Ans: 
   Explanation:  Template literals are define by ` ` (backticks)  
-        let poem2 = `
-                A quiet breeze, a fleeting song,
-                The day is short, the night is long.
-                Yet in the dark, the stars still glow,
-                A gentle guide for hearts that roam.
-        `
 
   Difference: 
   Template literals => easily can write multi line text
