@@ -42,7 +42,7 @@ Ans:
         `
 
   Difference: 
-        Template literals => easily can write multi line text
+  Template literals => easily can write multi line text
 
         let poem2 = `
                 A quiet breeze, a fleeting song,
@@ -50,7 +50,7 @@ Ans:
                 Yet in the dark, the stars still glow,
                 A gentle guide for hearts that roam.
         `
-        string concatenation => not easily can write multi line text
+  String concatenation => not easily can write multi line text
 
         let poem1 = 'A quiet breeze, a fleeting song, \n' +
                 'The day is short, the night is long. \n' +
